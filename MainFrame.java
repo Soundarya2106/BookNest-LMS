@@ -14,7 +14,7 @@ import org.jfree.util.PublicCloneable;
 public class MainFrame{
     private static final String url = "jdbc:mysql://localhost:3306/LMS";
     private static final String user = "root";
-    private static final String pass = "KarthiSou@22";
+    private static final String pass = "your password";
     
     public static void main(String[] args){
         SwingUtilities.invokeLater(new Runnable(){
