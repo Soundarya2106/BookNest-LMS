@@ -38,6 +38,3 @@ JFreeChart: [Official Website](https://jfree.org/jfreechart/download.html)
 MySQL: [Official Website](https://www.mysql.com/)   
 Java Swing: [Documentation](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html)
 
-License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
